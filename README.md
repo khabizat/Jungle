@@ -29,3 +29,17 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Final Product
+
+### Products view on the home page
+!["Products view on the home page"](docs/products-view.png)
+
+### Product added to the cart
+!["View of the cart with a product added to it"](docs/cart-with-product.png)
+
+### Empty cart
+!["View of the empty cart"](docs/empty-cart.png)
+
+### Admin dashboard to add new products
+!["Admin dashboard where new products can be added"](docs/admin-add-products.png)
